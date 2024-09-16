@@ -4,22 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="866e824a-6b46-4d2b-9544-8a22e16444fa" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/primeiroprojetoone.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/AdivinheONumero.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Condicional.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Leitura.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Loop.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Perfil.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/PrimeiraClasse.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Soma.java" afterDir="false" />
-    </list>
+    <list default="true" id="866e824a-6b46-4d2b-9544-8a22e16444fa" name="Changes" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -35,6 +20,18 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
+  <component name="GitHubPullRequestSearchHistory"><![CDATA[{
+  "lastFilter": {
+    "state": "OPEN",
+    "assignee": "gabrielfiss1"
+  }
+}]]></component>
+  <component name="GithubPullRequestsUISettings"><![CDATA[{
+  "selectedUrlAndAccountId": {
+    "url": "git@github.com:gabrielfiss1/Java_ONE.git",
+    "accountId": "1f406d6f-2c2f-4ceb-89c7-48e30704e45b"
+  }
+}]]></component>
   <component name="ProjectColorInfo">{
   &quot;associatedIndex&quot;: 7
 }</component>
@@ -135,7 +132,7 @@
       <workItem from="1726095309912" duration="1304000" />
       <workItem from="1726175459828" duration="537000" />
       <workItem from="1726185233157" duration="2115000" />
-      <workItem from="1726497486363" duration="7360000" />
+      <workItem from="1726497486363" duration="7908000" />
     </task>
     <servers />
   </component>
