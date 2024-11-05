@@ -9,6 +9,12 @@ public class Titulo { // super classe
     private  int duracaoEmMinutos;
     // boolean dublagem;
 
+
+    public Titulo(String nome, int anoDeLancamento) {
+        this.nome = nome;
+        this.anoDeLancamento = anoDeLancamento;
+    }
+
     public int getTotalDeAvaliacoes(){
         return totalDeAvaliacoes;
     }
