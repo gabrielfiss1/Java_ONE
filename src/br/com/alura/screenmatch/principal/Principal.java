@@ -1,3 +1,5 @@
+package br.com.alura.screenmatch.principal;
+
 import br.com.alura.screenmatch.calculos.CalculadoraDeTempo;
 import br.com.alura.screenmatch.calculos.FiltroRecomendacao;
 import br.com.alura.screenmatch.modelos.Episodio;
@@ -11,6 +13,7 @@ public class Principal {
         Filme filme1 = new Filme("Carros", 2008);
         filme1.setDuracaoEmMinutos(120);
         filme1.setIncluidoNoPlano(true);
+
         System.out.println("Duracao do filme: " + filme1.getDuracaoEmMinutos());
 
         filme1.avalia(7.2);

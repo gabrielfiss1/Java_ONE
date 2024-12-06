@@ -1,7 +1,11 @@
 package br.com.alura.screenmatch.modelos;
 
+import com.google.gson.annotations.SerializedName;
+
 public class Titulo { // super classe
+    @SerializedName("Title")
     private String nome;
+    @SerializedName("Year")
     private  int anoDeLancamento;
     private  boolean incluidoNoPlano;
     private double somaDasAvaliacoes;
@@ -74,5 +78,13 @@ public class Titulo { // super classe
 
     public String getNome() {
         return nome;
+    }
+
+    @Override
+    public String toString() {
+        return "Titulo{" +
+                "nome='" + nome + '\'' +
+                ", anoDeLancamento=" + anoDeLancamento +
+                '}';
     }
 }
